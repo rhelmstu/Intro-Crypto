@@ -1,0 +1,9 @@
+INFO    : Staging deployment according to strategy default_target
+INFO    : Since no target was supplied, we will use "web".
+
+INFO    : Staging latest build located in `C:\Users\rhelmstu\Desktop\Intro Crypto\output\web` at `C:\Users\rhelmstu\Desktop\Intro Crypto\output\stage`.
+INFO    : 
+INFO    : Initializing project with Git.
+INFO    : Successfully initialized new Git repository!
+INFO    : Preparing to deploy from active `main` git branch.
+
