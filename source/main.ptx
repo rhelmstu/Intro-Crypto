@@ -40,15 +40,15 @@
 
     <xi:include href="./chap_RSA3.ptx" />
 
-     <xi:include href="./chap_digsig.ptx" />
+    <xi:include href="./chap_digsig.ptx" />
 
-      <xi:include href="./chap_MSS.ptx" />
+    <xi:include href="./chap_MSS.ptx" />
 
-       <xi:include href="./chap_ZKP.ptx" />
+    <xi:include href="./chap_ZKP.ptx" />
 
-        <xi:include href="./chap_DCP.ptx" />
+    <xi:include href="./chap_DCP.ptx" />
 
-     <!-- Include backmatter -->
+    <!-- Include backmatter -->
     <!-- <xi:include href="./backmatter.ptx" /> -->
 
   </book>
