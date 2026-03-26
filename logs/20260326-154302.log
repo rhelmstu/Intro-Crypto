@@ -16,3 +16,10 @@ INFO    : And if you haven't already, create a remote GitHub repository for this
 INFO    :     https://github.com/new
 INFO    : (Do NOT check any "initialize" options.)
 INFO    : On the next page, copy the "HTTPS" version of the URL in the "Quick Setup" section.
+ERROR   : EOF when reading a line
+INFO    : 
+----------------------------------------------------
+INFO    : While running pretext, the following errors occurred:
+
+INFO    : (see log messages above or in the 'logs' folder for more information)
+INFO    : ----------------------------------------------------
