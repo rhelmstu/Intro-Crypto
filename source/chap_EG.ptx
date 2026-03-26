@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="chap_EG" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>ElGamal Encryption</title>
+
+    <section xml:id="sec_egidea" xmlns:xi="http://www.w3.org/2001/XInclude"> 
+    <title>The Idea</title>
+        
+    </section>
+   
+    <section xml:id="sec_egscheme" xmlns:xi="http://www.w3.org/2001/XInclude"> 
+    <title>The ElGamal Scheme</title>
+        
+    </section>
+
+</chapter>

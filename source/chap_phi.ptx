@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="chap_phi" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>The Euler <m>\ephi</m> Function</title>
+
+    <section xml:id="sec_prop" xmlns:xi="http://www.w3.org/2001/XInclude"> 
+    <title>Properties of <m>\ephi</m></title>
+    
+  <p>     
+  PARAGRAPH
+  </p>
+      
+    </section>
+
+    <section xml:id="sec_proofs" xmlns:xi="http://www.w3.org/2001/XInclude"> 
+    <title>The Proofs</title>
+
+    </section>
+
+</chapter>

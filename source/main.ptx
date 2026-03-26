@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <!-- we first include a file which contains the docinfo element: -->
+  <xi:include href="./docinfo.ptx" />
+
+  <book xml:id="Intro-Crypto">
+    <title>Introduction to Cryptography</title>
+    <!-- <subtitle>An example to get you started</subtitle> -->
+
+    <!-- Include frontmatter -->
+    <xi:include href="./frontmatter.ptx" />
+
+    <!-- Include chapters -->
+    <xi:include href="./chap_intro.ptx" />
+
+    <xi:include href="./chap_cong.ptx" />
+
+    <xi:include href="./chap_affine.ptx" />
+    
+    <xi:include href="./chap_attacks.ptx" />
+
+    <xi:include href="./chap_EA.ptx" />
+
+    <xi:include href="./chap_phi.ptx" />
+
+    <xi:include href="./chap_DH1.ptx" />
+
+    <xi:include href="./chap_secDH.ptx" />
+
+    <xi:include href="./chap_PKC.ptx" />
+
+    <xi:include href="./chap_EG.ptx" />
+
+    <xi:include href="./chap_secEG.ptx" />
+
+    <xi:include href="./chap_RSA1.ptx" />
+
+    <xi:include href="./chap_RSA2.ptx" />
+
+    <xi:include href="./chap_RSA3.ptx" />
+
+     <xi:include href="./chap_digsig.ptx" />
+
+      <xi:include href="./chap_MSS.ptx" />
+
+       <xi:include href="./chap_ZKP.ptx" />
+
+        <xi:include href="./chap_DCP.ptx" />
+
+     <!-- Include backmatter -->
+    <!-- <xi:include href="./backmatter.ptx" /> -->
+
+  </book>
+</pretext>

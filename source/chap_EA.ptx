@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="chap_EA" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>The Euclidean Algorithm and Invertibility</title>
+
+    <section xml:id="sec_gcd" xmlns:xi="http://www.w3.org/2001/XInclude"> 
+      <title>Greatest Common Divisors</title>
+    </section>
+
+    <section xml:id="sec_euclid" xmlns:xi="http://www.w3.org/2001/XInclude">
+      <title>The Euclidean Algorithm</title>
+    </section>
+
+    <section xml:id="sec_invmod" xmlns:xi="http://www.w3.org/2001/XInclude">
+      <title>Invertibility mod <m>n</m></title>
+    </section>
+    
+</chapter>

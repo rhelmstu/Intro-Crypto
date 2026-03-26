@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="chap_secEG" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Security of ElGamal</title>
+
+    <section xml:id="sec_EGattacks" xmlns:xi="http://www.w3.org/2001/XInclude"> 
+    <title>The Standard Attacks</title>
+        
+    </section>
+   
+    <section xml:id="sec_EGCCA" xmlns:xi="http://www.w3.org/2001/XInclude"> 
+    <title>ElGamal and Chosen Ciphertext Attacks</title>
+        
+    </section>
+
+</chapter>

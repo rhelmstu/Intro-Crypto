@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="chap_RSA3" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Security of RSA</title>
+
+    <section xml:id="sec_first3" xmlns:xi="http://www.w3.org/2001/XInclude"> 
+    <title>The First Three Attacks</title>
+        
+    </section>
+   
+    <section xml:id="sec_RSACCA" xmlns:xi="http://www.w3.org/2001/XInclude"> 
+    <title>RSA and Chosen Ciphertext Attacks</title>
+        
+    </section>
+
+    
+</chapter>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="chap_cong" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Congruences</title>
+
+    <section xml:id="sec_inspo" xmlns:xi="http://www.w3.org/2001/XInclude"> 
+      <title>The Inspiration</title>
+    </section>
+
+    <section xml:id="sec_legit" xmlns:xi="http://www.w3.org/2001/XInclude">
+      <title>Congruence, Legitimately</title>
+    </section>
+
+    <section xml:id="sec_alg" xmlns:xi="http://www.w3.org/2001/XInclude">
+      <title>Algebra with Congruences</title>
+    </section>
+    
+</chapter>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="chap_TITLE" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>TITLE</title>
+
+    <section xml:id="sec_TITLE" xmlns:xi="http://www.w3.org/2001/XInclude"> 
+    <title>TITLE</title>
+        
+    </section>
+   
+    <section xml:id="sec_TITLE2" xmlns:xi="http://www.w3.org/2001/XInclude"> 
+    <title>TITLE2</title>
+        
+    </section>
+
+    <section xml:id="sec_TITLE3" xmlns:xi="http://www.w3.org/2001/XInclude"> 
+    <title>TITLE3</title>
+        
+    </section>
+</chapter>

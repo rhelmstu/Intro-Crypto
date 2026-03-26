@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="chap_secDH" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Security of DHKE</title>
+
+    <section xml:id="sec_primes" xmlns:xi="http://www.w3.org/2001/XInclude"> 
+    <title>Primes</title>
+        
+    </section>
+   
+    <section xml:id="sec_prim" xmlns:xi="http://www.w3.org/2001/XInclude"> 
+    <title>Primitive Elements</title>
+        
+    </section>
+
+    <section xml:id="sec_dlp" xmlns:xi="http://www.w3.org/2001/XInclude"> 
+    <title>The Discrete Log Problem</title>
+        
+    </section>
+</chapter>

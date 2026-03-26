@@ -1,0 +1,35 @@
+INFO    : Since no target was supplied, we will use "web".
+
+INFO    : Building target web
+INFO    : XSL conversion of C:\Users\rhelmstu\Desktop\Intro Crypto\source\main.ptx by C:\Users\rhelmstu\.ptx\2.37.1\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\rhelmstu\.ptx\2.37.1\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : Generating any needed assets.
+INFO    : Finished generating assets.
+
+INFO    : Preparing to build into C:\Users\rhelmstu\Desktop\Intro Crypto\output\web.
+INFO    : discovering source file's directory name: C:\Users\rhelmstu\Desktop\Intro Crypto\source
+INFO    : verifying and expanding input directory: C:\Users\rhelmstu\Desktop\Intro Crypto\source\../generated-assets
+INFO    : input directory expanded to absolute path: C:\Users\rhelmstu\Desktop\Intro Crypto\generated-assets
+INFO    : verifying and expanding input directory: C:\Users\rhelmstu\Desktop\Intro Crypto\source\../assets
+INFO    : input directory expanded to absolute path: C:\Users\rhelmstu\Desktop\Intro Crypto\assets
+INFO    : XSL conversion of C:\Users\rhelmstu\Desktop\Intro Crypto\source\main.ptx by C:\Users\rhelmstu\.ptx\2.37.1\core\xsl\utilities\report-publisher-variables.xsl
+INFO    : successful application of C:\Users\rhelmstu\.ptx\2.37.1\core\xsl\utilities\report-publisher-variables.xsl
+INFO    : Downloading rs services file from https://runestone.academy/cdn/runestone/latest/webpack_static_imports.xml.
+INFO    : Runestone Services via online CDN query: version 7.11.19
+INFO    : Downloading Runestone Services, version 7.11.19
+INFO    : Extracting Runestone Services from archive file
+INFO    : Building custom css theme: theme-default-modern
+INFO    : converting C:\Users\rhelmstu\Desktop\Intro Crypto\source\main.ptx to HTML in C:\Users\rhelmstu\AppData\Local\Temp\ptx-uhpdyll1
+INFO    : XSL conversion of C:\Users\rhelmstu\Desktop\Intro Crypto\source\main.ptx by C:\Users\rhelmstu\.ptx\2.37.1\core\xsl\pretext-html.xsl
+INFO    : messages from the log for XSL processing:
+INFO    : * PTX:INFO:   checking all deprecated elements.
+INFO    : successful application of C:\Users\rhelmstu\.ptx\2.37.1\core\xsl\pretext-html.xsl
+INFO    : Removing temporary directory C:\Users\rhelmstu\AppData\Local\Temp\ptx-uhpdyll1
+INFO    : Removing temporary directory C:\Users\rhelmstu\AppData\Local\Temp\ptx-vi4m7mw7
+INFO    : 
+Finished build for target web. Run `pretext view web` to see the results.
+
+INFO    : 
+Success!  Built requested target(s) without errors.
+
+INFO    : 

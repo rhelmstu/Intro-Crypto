@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="chap_RSA1" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>The RSA Encryption Scheme</title>
+
+    <section xml:id="sec_setup" xmlns:xi="http://www.w3.org/2001/XInclude"> 
+    <title>The Setup</title>
+        
+    </section>
+   
+    <section xml:id="sec_keygen" xmlns:xi="http://www.w3.org/2001/XInclude"> 
+    <title>Key Generation</title>
+        
+    </section>
+
+    <section xml:id="sec_secpriv" xmlns:xi="http://www.w3.org/2001/XInclude"> 
+    <title>Secrecy of the Private Key</title>
+        
+    </section>
+</chapter>

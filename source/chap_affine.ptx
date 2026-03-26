@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="chap_affine" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Affine Encryption</title>
+
+    <section xml:id="sec_coll" xmlns:xi="http://www.w3.org/2001/XInclude"> 
+      <title>Collisions and Affine Encryption</title>
+    </section>
+
+    <section xml:id="sec_inv" xmlns:xi="http://www.w3.org/2001/XInclude">
+      <title>Invertibility and Units</title>
+    </section>
+
+    <section xml:id="sec_invaff" xmlns:xi="http://www.w3.org/2001/XInclude">
+      <title>Units and Affine Encryption</title>
+    </section>
+    
+</chapter>
