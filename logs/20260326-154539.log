@@ -1,0 +1,16 @@
+INFO    : Staging deployment according to strategy default_target
+INFO    : Since no target was supplied, we will use "web".
+
+INFO    : Staging latest build located in `C:\Users\rhelmstu\Desktop\Intro Crypto\output\web` at `C:\Users\rhelmstu\Desktop\Intro Crypto\output\stage`.
+INFO    : 
+INFO    : Preparing to deploy from active `main` git branch.
+
+INFO    : Changes to project source since last commit detected.
+INFO    : Committing these changes to local Git repository.
+
+WARNING : Remote GitHub repository is not yet configured.
+
+INFO    : And if you haven't already, create a remote GitHub repository for this project at:
+INFO    :     https://github.com/new
+INFO    : (Do NOT check any "initialize" options.)
+INFO    : On the next page, copy the "HTTPS" version of the URL in the "Quick Setup" section.
