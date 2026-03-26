@@ -7,3 +7,12 @@ INFO    : Initializing project with Git.
 INFO    : Successfully initialized new Git repository!
 INFO    : Preparing to deploy from active `main` git branch.
 
+INFO    : Changes to project source since last commit detected.
+INFO    : Committing these changes to local Git repository.
+
+WARNING : Remote GitHub repository is not yet configured.
+
+INFO    : And if you haven't already, create a remote GitHub repository for this project at:
+INFO    :     https://github.com/new
+INFO    : (Do NOT check any "initialize" options.)
+INFO    : On the next page, copy the "HTTPS" version of the URL in the "Quick Setup" section.
